@@ -42,7 +42,7 @@ BOARD_TYPE = 'R421A08'
 BAUDRATE = 9600
 
 # Fixed number of relays on the R421A08 board
-NUM_RELAYS = 8
+NUM_RELAYS = 16
 
 # Fixed number of addresses, configurable with 6 DIP switches on the R421A08 relay board
 NUM_ADDRESSES = 64
